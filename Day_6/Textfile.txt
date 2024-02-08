@@ -1,0 +1,3 @@
+This is my textfile for Exception Handling.
+Hello python
+Hello by replacing try-except by with statement...
